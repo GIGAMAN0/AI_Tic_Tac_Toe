@@ -66,6 +66,3 @@ If you'd like to contribute to the project, follow these steps:
 ## Acknowledgments
 
 - This project is part of the CS50 AI course by Harvard University.
-```
-
-This markdown syntax will render nicely on GitHub with larger, bolded headings for each section. You can preview how it looks by editing your README file directly on GitHub.
